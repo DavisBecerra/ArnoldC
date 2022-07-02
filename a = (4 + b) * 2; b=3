@@ -1,24 +1,24 @@
-//Begin main
+#Begin main
 IT'S SHOWTIME
-//declaring variable numero1
+#Declaring variable numero1
 HEY CHRISTMAS TREE numero1
-//Assigning variable numero1=0
+#Assigning variable numero1=0
 YOU SET US UP 0
-//declaring variable numero2
+#Declaring variable numero2
 HEY CHRISTMAS TREE numero2
-//Assigning variable numero2=3
+#Assigning variable numero2=3
 YOU SET US UP 3
-//Begin use and variable assign
+#Begin use and variable assign
 GET TO THE CHOPPER numero1
-//Set value
+#Set value
 HERE IS MY INVITATION 4
-//arithmetic operation +
+#Arithmetic operation +
 GET UP numero2
-//arithmetic operation *
+#Arithmetic operation *
 YOU'RE FIRED 2
-//End use and variable assign
+#End use and variable assign
 ENOUGH TALK
-//Print result
+#Print result
 TALK TO THE HAND numero1
-//End main
+#End main
 YOU HAVE BEEN TERMINATED
